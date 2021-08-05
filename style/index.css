@@ -12,3 +12,14 @@ h1{
 h2{
   font-size: 3rem;
 }
+
+.box{
+  border: 3px solid goldenrod;
+  padding: 20px;
+  width: 50%;
+  height: 20rem;
+  font-size: 2rem;
+  text-align: center;
+  display: grid;
+  place-content: center;
+}
