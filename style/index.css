@@ -1,0 +1,10 @@
+body{
+  background-color: purple;
+  color: #fff;
+}
+
+h1{
+  font-size: 4rem;
+  text-transform: uppercase;
+  text-align: center;
+}
